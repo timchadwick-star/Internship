@@ -2,7 +2,7 @@ from functions.script_clean import script_clean as clean
 from functions.dict_count import dict_count as count
 import csv
 
-with open('./raw_text.txt', 'r') as t:
+with open('./donald_speech.txt', 'r') as t:
     text = t.read()
     text = clean(text)
     word_count = count(text.split())

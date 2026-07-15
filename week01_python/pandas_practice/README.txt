@@ -1,0 +1,1 @@
+This notebook contains code which takes a dataset with information on the top 1000 countries. Running the code keeps only numerical data about revenue, profit etc. of the companies and generates a brief summary of the data as a latex table. Further cells can also be run to reorder the table in order of descending profit or percentage growth.

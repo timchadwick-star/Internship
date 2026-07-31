@@ -1,0 +1,25 @@
+File ID,Health label,Condition,Modality,File path
+BF_10HZ,BF,10HZ,multimodal,data\Raw data\BF_10HZ.txt
+BF_20HZ,BF,20HZ,multimodal,data\Raw data\BF_20HZ.txt
+BF_30HZ,BF,30HZ,multimodal,data\Raw data\BF_30HZ.txt
+BF_5HZ,BF,5HZ,multimodal,data\Raw data\BF_5HZ.txt
+BOW_10HZ,BOW,10HZ,multimodal,data\Raw data\BOW_10HZ.txt
+BOW_20HZ,BOW,20HZ,multimodal,data\Raw data\BOW_20HZ.txt
+BOW_30HZ,BOW,30HZ,multimodal,data\Raw data\BOW_30HZ.txt
+BOW_5HZ,BOW,5HZ,multimodal,data\Raw data\BOW_5HZ.txt
+BROKEN_10HZ,BROKEN,10HZ,multimodal,data\Raw data\BROKEN_10HZ.txt
+BROKEN_20HZ,BROKEN,20HZ,multimodal,data\Raw data\BROKEN_20HZ.txt
+BROKEN_30HZ,BROKEN,30HZ,multimodal,data\Raw data\BROKEN_30HZ.txt
+BROKEN_5HZ,BROKEN,5HZ,multimodal,data\Raw data\BROKEN_5HZ.txt
+H_10HZ,H,10HZ,multimodal,data\Raw data\H_10HZ.txt
+H_20HZ,H,20HZ,multimodal,data\Raw data\H_20HZ.txt
+H_30HZ,H,30HZ,multimodal,data\Raw data\H_30HZ.txt
+H_5HZ,H,5HZ,multimodal,data\Raw data\H_5HZ.txt
+MISAL_10HZ,MISAL,10HZ,multimodal,data\Raw data\MISAL_10HZ.txt
+MISAL_20HZ,MISAL,20HZ,multimodal,data\Raw data\MISAL_20HZ.txt
+MISAL_30HZ,MISAL,30HZ,multimodal,data\Raw data\MISAL_30HZ.txt
+MISAL_5HZ,MISAL,5HZ,multimodal,data\Raw data\MISAL_5HZ.txt
+UNBAL_10HZ,UNBAL,10HZ,multimodal,data\Raw data\UNBAL_10HZ.txt
+UNBAL_20HZ,UNBAL,20HZ,multimodal,data\Raw data\UNBAL_20HZ.txt
+UNBAL_30HZ,UNBAL,30HZ,multimodal,data\Raw data\UNBAL_30HZ.txt
+UNBAL_5HZ,UNBAL,5HZ,multimodal,data\Raw data\UNBAL_5HZ.txt
